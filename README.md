@@ -45,10 +45,15 @@ Includes the level of skill or knowledge required to build the DApp.
 #### User Experience
 Includes how intuitive and understandable the submission is for potential users or developers.
 
-*Please note that Impact protocol will judge your project based on the criteria above and depending on that it will proceed with the rewards and grant possibility
+#### Note
+There are two ways you can work on the bounties.
 
+##### Existing bounty: 
+Several bounties have been created from the impact protocol. You can straight away work on those by commenting on the respective issue.
+##### New bounty:
+You can create your own dApps idea as a bounty and submit an issue as specified above. You can start working on that upon approval from the impact protocol team
 
-### For example
+Find the list of existing bounties
 There has been an issue created, please follow the link 
 https://github.com/GlobalBoost/bug-bounties/issues/1
 
