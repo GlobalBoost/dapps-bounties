@@ -8,12 +8,12 @@ We offer a bounty for building dApps that drive adoption for the impact chains. 
 smart contracts using the ink natively and EVM-based smart contracts using solidity, vyper etc. The community of developers can build dApps on impact protocol without any language limitation to develop and deploy apps.
 
 ### Example project ideas:
-Building a dex
-Native substrate based wallet(could be multi-sig)
-Defi platform
-NFT marketplace
-Digital identities
-Decentralized Autonomous Organizations (DAOs)
+ - Building a dex
+ - Native substrate based wallet(could be multi-sig)
+ - Defi platform
+ - NFT marketplace
+ - Digital identities
+ - Decentralized Autonomous Organizations (DAOs)
 
 ### Submission Requirements:
 Create an issue presenting the idea and description of the dApps you are planning to build following the similar format as shown below
