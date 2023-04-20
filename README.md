@@ -55,7 +55,7 @@ You can create your own dApps idea as a bounty and submit an issue as specified 
 
 Find the list of existing bounties
 There has been an issue created, please follow the link 
-https://github.com/GlobalBoost/bug-bounties/issues/1
+https://github.com/GlobalBoost/dapps-bounties/issues
 
 
 
