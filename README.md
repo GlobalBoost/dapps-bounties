@@ -45,12 +45,12 @@ Includes the level of skill or knowledge required to build the DApp.
 #### User Experience
 Includes how intuitive and understandable the submission is for potential users or developers.
 
-#### Note
+### Note
 There are two ways you can work on the bounties.
 
-##### Existing bounty: 
-Several bounties have been created from the impact protocol. You can straight away work on those by commenting on the respective issue.
-##### New bounty:
+#### Existing bounty: 
+Several bounties have been created from the impact protocol. You can straight away work on those by commenting on the respective issue. You can filter existing bounties created by the impactprotocol team by filtering on label as impact-team 
+#### New bounty:
 You can create your own dApps idea as a bounty and submit an issue as specified above. You can start working on that upon approval from the impact protocol team
 
 Find the list of existing bounties
