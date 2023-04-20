@@ -17,15 +17,15 @@ smart contracts using the ink natively and EVM-based smart contracts using solid
 
 ### Submission Requirements:
 Create an issue presenting the idea and description of the dApps you are planning to build following the similar format as shown below
-Please include in your submission’s readme file:
-Project title
-Project description (minimum 150 words)
-Name of bounty
-Names of parachains you have built with for your cross-parachain DApp
-Provide a way to access the project for judging and testing by including a link to a repo hosting the application’s code and any other deployment files and testing instructions.
-Must have an open source license (accepted licenses here)
-You must provide a video demo, or instructions for using your live demo
-Language requirements: All Submission materials must be in English or, if not in English, the team must provide an English translation of any demonstration videos, text descriptions, and testing instructions as well as all other materials submitted.
+ - Please include in your submission’s readme file:
+ - Project title
+ - Project description (minimum 150 words)
+ - Name of bounty
+ - Names of parachains you have built with for your cross-parachain DApp
+ - Provide a way to access the project for judging and testing by including a link to a repo hosting the application’s code and any other deployment files and testing instructions.
+ - Must have an open source license (accepted licenses here)
+ - You must provide a video demo, or instructions for using your live demo
+ - Language requirements: All Submission materials must be in English or, if not in English, the team must provide an English translation of any demonstration videos, text descriptions, and testing instructions as well as all other materials submitted.
 
 ### Rewards and Benefits:
 
